@@ -21,6 +21,7 @@ Las pruebas cubren los siguientes módulos y flujos principales:
 
 ## 📂 Estructura del Repositorio
 * 📋 **[Plan de Pruebas](./docs/test-plan.md):** Alcance funcional, exclusiones, navegadores y resoluciones evaluadas.
-* 📝 **[Casos de Prueba](./casos-de-prueba):** Matrices de prueba, escenarios positivos/negativos y criterios de aceptación.
-* 🐞 **[Reporte de Bugs](./bugs):** Registro detallado de defectos encontrados, pasos para reproducir, severidad y evidencias.
+* 📝 **[Casos de Prueba - Login y Checkout](./casos-de-prueba/login-y-checkout.md):** Escenarios positivos y negativos para autenticación y flujo de compra.
+* 📦 **[Casos de Prueba - Inventario y Ordenamiento](./casos-de-prueba/inventario-y-ordenamiento.md):** Validación del catálogo, filtros de ordenamiento, detalle de producto y carrito.
+* 🐞 **[Reporte de Bugs](./bugs/reporte-bugs.md):** Registro detallado de defectos encontrados, pasos para reproducir, severidad y prioridad.
 * 🤖 **[Automatización](./automatizacion):** Scripts de pruebas automatizadas end-to-end (E2E) y configuración del proyecto.
